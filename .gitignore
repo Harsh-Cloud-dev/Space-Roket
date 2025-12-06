@@ -1,0 +1,24 @@
+# Godot Imported Files
+.import/
+*.import
+
+# Mono C# generated (if ever used)
+.mono/
+data_*/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Exported builds (binaries)
+*.exe
+*.apk
+*.aab
+*.pck
+*.zip
+*.tar.gz
+*.dmg
